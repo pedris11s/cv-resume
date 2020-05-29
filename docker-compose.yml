@@ -6,4 +6,4 @@ services:
       context: .
     restart: always
     ports:
-      - '127.0.0.1:1910:80'
+      - '1910:80'
